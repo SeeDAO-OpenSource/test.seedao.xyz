@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ecae17ca.css",
-    "main.js": "/static/js/main.60954d45.js",
+    "main.js": "/static/js/main.0ddd52aa.js",
     "static/media/banner.jpg": "/static/media/banner.99b742d9748cd2cfe794.jpg",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
@@ -32,9 +32,7 @@
     "static/media/Frame.svg": "/static/media/Frame.1a3a52aa2be3fc41b1c2247429effa83.svg",
     "static/media/city-hall.svg": "/static/media/city-hall.8d3a63c8acd561c489fa47a945211dde.svg",
     "static/media/build-seedao.svg": "/static/media/build-seedao.ee45cd0927735cfc8f359873d380f8e4.svg",
-    "static/media/combinator.svg": "/static/media/combinator.5de69b666440cede014be94289563c30.svg",
     "static/media/onbording.svg": "/static/media/onbording.7963c3b74e0df4a20c8c5b13ed93ed66.svg",
-    "static/media/global.svg": "/static/media/global.8f9dc011b25b7155bee23c3d3dd617ac.svg",
     "static/media/bounties.svg": "/static/media/bounties.f9783da26f807d391677f07a2a0fac66.svg",
     "static/media/seedao.svg": "/static/media/seedao.311f979f4c7eac790f623f7be0d94995.svg",
     "static/media/meta.svg": "/static/media/meta.d29a76cc8d0ec0e5ff3bcbeaeb00d15d.svg",
@@ -42,10 +40,10 @@
     "static/media/white-paper.svg": "/static/media/white-paper.a7ae76ffa108e97c331b435e501553aa.svg",
     "static/media/menu.svg": "/static/media/menu.b9cd3c3e4b5a847f3e37af0ca17821fe.svg",
     "main.ecae17ca.css.map": "/static/css/main.ecae17ca.css.map",
-    "main.60954d45.js.map": "/static/js/main.60954d45.js.map"
+    "main.0ddd52aa.js.map": "/static/js/main.0ddd52aa.js.map"
   },
   "entrypoints": [
     "static/css/main.ecae17ca.css",
-    "static/js/main.60954d45.js"
+    "static/js/main.0ddd52aa.js"
   ]
 }
